@@ -1,6 +1,6 @@
 # Inventory-Management-System
 
-#Tech Stack
+Tech Stack
 
 Frontend: Customtkinter/ttkbootstrap
 
