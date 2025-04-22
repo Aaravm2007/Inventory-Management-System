@@ -1,0 +1,6 @@
+customtkinter
+db-sqlite3
+openpyxl
+Pillow
+pandas
+CTkTable
